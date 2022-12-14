@@ -79,10 +79,10 @@ Languages:
 
 
 
-## Connect with me  
+## Connections:  
 <div align="center">
 <a href="https://linkedin.com/in/pranshu54" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/pranshu_gupta_54" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -90,6 +90,17 @@ Languages:
 <a href="https://github.com/pranshugupta54" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+ 
+<a href="https://www.codechef.com/users/pranshugupta54" target="_blank">
+<img src=https://img.shields.io/badge/CodeChef-%23000000.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/pranshgu7rr/" target="_blank">
+<img src=https://img.shields.io/badge/GeeksForGeeks-%2324292e.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+</a>
+
+  
+  
 </div>  
   
 
