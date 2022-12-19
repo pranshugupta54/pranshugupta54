@@ -60,7 +60,12 @@ Languages:
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
 
 ## Github Stats  
-  
+ 
+  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=pranshugupta54&style=flat-square" align="center" />
+</div>  
+<br>
+<br>
 <p align="center">
     <a><img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshugupta54&theme=tokyonight" /></a>
 
@@ -73,9 +78,7 @@ Languages:
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=pranshugupta54&style=flat-square" align="center" />
-</div>  
+
 
 
 
