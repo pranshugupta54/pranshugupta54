@@ -26,10 +26,10 @@ Languages:
 <!-- Languages -->
 </h3>
 <p align="left"> 
-<!-- Languages: CPP -->
-      <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cpp" width="48" height="50"/> </a> 
 <!-- Languages: C -->
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
+<!-- Languages: CPP -->
+      <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cpp" width="48" height="50"/> </a> 
 <!-- Languages: Html -->
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <!-- Languages: Css -->
@@ -42,6 +42,9 @@ Languages:
       <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
 <!-- Languages: MongoDB -->
       <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
+<!-- Languages: ExpressJs -->
+      <a href="https://expressjs.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" alt="expressjs" width="50" height="50"/> </a> 
+
   <br><br>
 
 
