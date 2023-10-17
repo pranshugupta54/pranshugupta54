@@ -9,9 +9,10 @@
 
 ### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Pranshu+Gupta.;💻+A+self+taught+programmer,+student.;👨🏻‍💻+Web+Developer.)](https://github.com/pranshugupta54)
   
-- 🏫 B.Tech IT'26, USICT  
+- 🏫 B.Tech IT'26, USICT
 - 👨🏻‍💻 Web Developer 
-- 🌱 I’m currently learning DSA  
+- 🌱 I’m currently learning DSA
+- Building @digitomize
 </div>
 
 <br/>  
