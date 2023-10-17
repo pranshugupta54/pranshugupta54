@@ -12,7 +12,7 @@
 - 🏫 B.Tech IT'26, USICT
 - 👨🏻‍💻 Web Developer 
 - 🌱 I’m currently learning DSA
-- Building @digitomize
+- Building [@digitomize](https://github.com/digitomize/digitomize)
 </div>
 
 <br/>  
