@@ -21,7 +21,7 @@
 <h3>
 <p align="left">
       <a> <img src="https://cdn-icons-png.flaticon.com/128/3898/3898082.png" alt="langs" width="25" height="25"/> </a>
-Languages:
+Tech Stack:
       </p>
 
 <!-- Languages -->
@@ -45,8 +45,17 @@ Languages:
       <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
 <!-- Languages: ExpressJs -->
       <a href="https://expressjs.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" alt="expressjs" width="50" height="50"/> </a> 
+<!-- Languages: React -->
+      <a href="https://react.dev/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
+<!-- Languages: TailwindCss -->
+      <a href="https://tailwindcss.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwind css" width="50" height="50"/> </a> 
+<!-- Languages: Material UI -->
+      <a href="https://mui.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="material ui" width="50" height="50"/> </a> 
+<!-- Languages: Firebase -->
+      <a href="https://firebase.google.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" width="50" height="50"/> </a> 
 
   <br><br>
+  
 
 
 
@@ -64,7 +73,12 @@ Languages:
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
 
 ## Github Stats  
- 
+<div align="center">
+  <a href="https://quine.sh/user/pranshgupta54" target="_blank">
+    <img src="https://stats.quine.sh/pranshgupta54/github?theme=dark"/>
+    <img src="https://stats.quine.sh/pranshgupta54/dependencies?theme=dark"/>
+  </a>
+</div>
   <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pranshugupta54&style=flat-square" align="center" />
 </div>  
@@ -106,7 +120,7 @@ Languages:
 <img src=https://img.shields.io/badge/GeeksForGeeks-%2324292e.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>
 
-  
+  [More profiles on digitomize](https://digitomize.com/u/pranshu54)
   
 </div>  
   
