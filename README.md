@@ -73,15 +73,10 @@ Tech Stack:
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
 
 ## CP Stats
-<div align="center">
-  <a href="https://digitomize.com/u/pranshu54" target="_blank">
-    <img src="https://api.digitomize.com/user/ratings/pranshu54?leetcode=1"/>
-  </a>
-</div>
 
 <div align="center">
   <a href="https://digitomize.com/u/pranshu54" target="_blank">
-    <img src="https://api.digitomize.com/user/ratings/pranshu54?leetcode=1&codechef=1&codeforces=1" width="100%"/>
+    <img src="https://api.digitomize.com/user/ratings/pranshu54?leetcode=1&codechef=1&codeforces=1" width="100%" height="100%"/>
   </a>
 </div>
 
