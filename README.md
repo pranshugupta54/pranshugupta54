@@ -74,7 +74,7 @@ Tech Stack:
 
 ## CP Stats
 <div align="center">
-  <a href="https://digitomize.com/user/pranshu54 target="_blank">
+  <a href="https://digitomize.com/user/pranshu54" target="_blank">
     <img src="https://api.digitomize.com/user/ratings/pranshu54?leetcode=1&codechef=1&codeforces=1"/>
   </a>
 </div>
