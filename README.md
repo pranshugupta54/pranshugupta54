@@ -72,6 +72,14 @@ Tech Stack:
  <p align="left"> 
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
 
+## CP Stats
+<div align="center">
+  <a href="https://digitomize.com/user/pranshu54 target="_blank">
+    <img src="https://api.digitomize.com/user/ratings/pranshu54?leetcode=1&codechef=1&codeforces=1"/>
+  </a>
+</div>
+
+
 ## Github Stats  
 <div align="center">
   <a href="https://quine.sh/user/pranshgupta54" target="_blank">
