@@ -1,141 +1,55 @@
-<div align="center">
-<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" /> -->
-  
-  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E800FD&center=true&width=435&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Ciao%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Hola%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Bonjour%2C+World!+%2F+%3E)](https://github.com/pranshugupta54)
   
-</div>  
-
-
-### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Pranshu+Gupta.;💻+A+self+taught+programmer,+student.;👨🏻‍💻+Web+Developer.)](https://github.com/pranshugupta54)
-  
-- 🏫 B.Tech IT'26, USICT
-- 👨🏻‍💻 Web Developer 
-- 🌱 I’m currently learning DSA
-- Building [@digitomize](https://github.com/digitomize/digitomize)
-</div>
-
-<br/>  
-
-<!-- Languages: heading -->
-<h3>
-<p align="left">
-      <a> <img src="https://cdn-icons-png.flaticon.com/128/3898/3898082.png" alt="langs" width="25" height="25"/> </a>
-Tech Stack:
-      </p>
-
-<!-- Languages -->
-</h3>
-<p align="left"> 
-<!-- Languages: C -->
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-<!-- Languages: CPP -->
-      <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cpp" width="48" height="50"/> </a> 
-<!-- Languages: Html -->
-      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-<!-- Languages: Css -->
-      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-<!-- Languages: Bootstrap -->
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-<!-- Languages: JS -->
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<!-- Languages: NodeJS -->
-      <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-<!-- Languages: MongoDB -->
-      <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
-<!-- Languages: ExpressJs -->
-      <a href="https://expressjs.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" alt="expressjs" width="50" height="50"/> </a> 
-<!-- Languages: React -->
-      <a href="https://react.dev/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
-<!-- Languages: TailwindCss -->
-      <a href="https://tailwindcss.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwind css" width="50" height="50"/> </a> 
-<!-- Languages: Material UI -->
-      <a href="https://mui.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="material ui" width="50" height="50"/> </a> 
-<!-- Languages: Firebase -->
-      <a href="https://firebase.google.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" width="50" height="50"/> </a> 
-
-  <br><br>
-  
+  <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Pranshu Gupta! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>- Building <a href="https://www.digitomize.com/">@digitomize
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em> <br />
+<em>- Software Engineer Intern <a href="https://traycer.ai/">@Traycer AI
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em> <br />
+<em>- Open Source Contributor <a href="http://palisadoes.org">@Palisadoes Foundation
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em> <br />
+<em>- DMP Mentee'24 <a href="https://www.codeforgovtech.in">@C4GT
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em> <br />
+</p>
 
 
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/pranshgupta54?label=Follow)](https://twitter.com/intent/follow?screen_name=pranshgupta54)
+[![Linkedin: Pranshu](https://img.shields.io/badge/-Pranshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/pranshu54/)](http://linkedin.com/in/pranshu54/)
+![GitHub followers](https://img.shields.io/github/followers/pranshugupta54?label=Follow&style=social)
+![Waka Readme](https://github.com/pranshugupta54/pranshugupta54/workflows/Waka%20Readme/badge.svg)
 
-<!-- Tools: heading -->
- <h3>
- <p align="left">
-⚙ Tools:
-      </p>
-      </h3>
- <br>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
- <!-- Tool: VSC -->
- <p align="left"> 
- <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
+```javascript
+const pranshu = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "C++", "C"],
+    askMeAbout: ["web dev", "tech", "dsa"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        frontEnd: {
+            jsx: ["React"]
+        },
+        databases: ["mongo"],
+        misc: ["Firebase", "dev tools", "Jest"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-## CP Stats
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<div align="center">
-  <a href="https://digitomize.com/u/pranshu54" target="_blank">
-    <img src="https://v2api.digitomize.com/user/ratings/pranshu54?leetcode=1&codechef=1&codeforces=1" width="100%" height="100%"/>
-  </a>
-</div>
+---
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
-## Github Stats  
-<div align="center">
-  <a href="https://quine.sh/user/pranshgupta54" target="_blank">
-    <img src="https://stats.quine.sh/pranshgupta54/github?theme=dark"/>
-    <img src="https://stats.quine.sh/pranshgupta54/dependencies?theme=dark"/>
-  </a>
-</div>
-  <div align="center">
-<img src="https://komarev.com/ghpvc/?username=pranshugupta54&style=flat-square" align="center" />
-</div>  
-<br>
-<br>
-<p align="center">
-    <a><img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshugupta54&theme=tokyonight" /></a>
-
-  <br>
-
-  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pranshugupta54&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshugupta54&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>  
-
-<br/>  
-
-
-
-
-
-## Connections:  
-<div align="center">
-<a href="https://linkedin.com/in/pranshu54" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/pranshu_gupta_54" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/pranshugupta54" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
- 
-<a href="https://www.codechef.com/users/pranshgupta54" target="_blank">
-<img src=https://img.shields.io/badge/CodeChef-%23000000.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/pranshgu7rr/" target="_blank">
-<img src=https://img.shields.io/badge/GeeksForGeeks-%2324292e.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=codechef style="margin-bottom: 5px;" />
-</a>
-
-  [More profiles on digitomize](https://digitomize.com/u/pranshu54)
-  
-</div>  
-  
-
-<br/>  
-
-
-
-<br>
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
