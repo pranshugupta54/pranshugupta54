@@ -22,6 +22,7 @@
 [![Linkedin: Pranshu](https://img.shields.io/badge/-Pranshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/pranshu54/)](http://linkedin.com/in/pranshu54/)
 ![GitHub followers](https://img.shields.io/github/followers/pranshugupta54?label=Follow&style=social)
 ![Waka Readme](https://github.com/pranshugupta54/pranshugupta54/workflows/Waka%20Readme/badge.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=pranshugupta54&style=flat-square)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
