@@ -50,13 +50,13 @@ const pranshu = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 50.8 kB Used in GitHub's Storage 
+> 📦 50.9 kB Used in GitHub's Storage 
  > 
 > 🏆 578 Contributions in the Year 2025
  > 
@@ -93,18 +93,18 @@ Sunday                   5767 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 27 mins       ███████████████████████░░   91.03 % 
-TSConfig                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+TypeScript               6 hrs 14 mins       █████████████████████░░░░   82.27 % 
+JavaScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+TSConfig                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-Cursor                   8 hrs               ████████████████████████░   97.71 % 
-VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Cursor                   6 hrs 46 mins       ██████████████████████░░░   89.49 % 
+VS Code                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 
 💻 Operating System: 
-Mac                      8 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,7 +124,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pranshugupta54/pranshugupta54/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2025 01:35:39 UTC
+ Last Updated on 01/06/2025 02:02:05 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
