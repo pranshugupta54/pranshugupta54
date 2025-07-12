@@ -50,15 +50,13 @@ const pranshu = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C036%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C036%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 51.3 kB Used in GitHub's Storage 
- > 
-> 🏆 636 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,17 +91,17 @@ Sunday                   6618 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 6 mins              █████████░░░░░░░░░░░░░░░░   37.60 % 
-Other                    6 mins              █████████░░░░░░░░░░░░░░░░   37.46 % 
-JavaScript               3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Markdown                 24 mins             ██████████████████░░░░░░░   70.42 % 
+Other                    6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+Mac                      35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,7 +121,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pranshugupta54/pranshugupta54/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2025 01:56:20 UTC
+ Last Updated on 12/07/2025 01:55:38 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
