@@ -58,7 +58,7 @@ const pranshu = {
 
 > 📦 51.6 kB Used in GitHub's Storage 
  > 
-> 🏆 647 Contributions in the Year 2025
+> 🏆 648 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,17 +93,17 @@ Sunday                   7073 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 6 mins         ███████████░░░░░░░░░░░░░░   42.87 % 
-Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-JSON                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-TypeScript               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+JavaScript               1 hr 7 mins         ███████████░░░░░░░░░░░░░░   44.42 % 
+JSON                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+TypeScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 35 mins       █████████████████████████   100.00 % 
+Cursor                   2 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,7 +123,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pranshugupta54/pranshugupta54/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2025 01:52:56 UTC
+ Last Updated on 10/08/2025 02:04:06 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
