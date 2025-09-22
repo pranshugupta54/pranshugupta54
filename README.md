@@ -50,15 +50,15 @@ const pranshu = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C092%20hrs%2019%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 52.2 kB Used in GitHub's Storage 
  > 
-> 🏆 679 Contributions in the Year 2025
+> 🏆 681 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,6 +66,46 @@ const pranshu = {
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4882 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+🌆 Daytime                28013 commits       █████████░░░░░░░░░░░░░░░░   35.74 % 
+🌃 Evening                33515 commits       ███████████░░░░░░░░░░░░░░   42.76 % 
+🌙 Night                  11964 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   19241 commits       ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Tuesday                  11078 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Wednesday                10560 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Thursday                 9071 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Friday                   11770 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Saturday                 9085 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Sunday                   7569 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+MDX                      3 hrs 2 mins        ██████████████░░░░░░░░░░░   55.72 % 
+TypeScript               1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+JSON                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Protocol Buffer          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+
+🔥 Editors: 
+Cursor                   5 hrs 27 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      5 hrs 27 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -83,7 +123,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pranshugupta54/pranshugupta54/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2025 01:48:10 UTC
+ Last Updated on 22/09/2025 01:49:06 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
