@@ -50,7 +50,9 @@ const pranshu = {
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.5%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%2026%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -64,6 +66,46 @@ const pranshu = {
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4996 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+🌆 Daytime                28545 commits       █████████░░░░░░░░░░░░░░░░   35.74 % 
+🌃 Evening                34135 commits       ███████████░░░░░░░░░░░░░░   42.74 % 
+🌙 Night                  12190 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   19627 commits       ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+Tuesday                  11274 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Wednesday                10778 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Thursday                 9270 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Friday                   11992 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Saturday                 9241 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Sunday                   7684 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+MDX                      7 hrs 8 mins        ███████████████░░░░░░░░░░   59.25 % 
+TypeScript               1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+JSON                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+
+🔥 Editors: 
+Cursor                   12 hrs 2 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      12 hrs 2 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -81,7 +123,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pranshugupta54/pranshugupta54/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 01:50:55 UTC
+ Last Updated on 29/09/2025 01:36:54 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
