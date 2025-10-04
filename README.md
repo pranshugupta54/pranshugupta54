@@ -50,15 +50,13 @@ const pranshu = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2042%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 52.3 kB Used in GitHub's Storage 
  > 
-> 🏆 697 Contributions in the Year 2025
+> 🏆 703 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,21 +67,21 @@ const pranshu = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5002 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-🌆 Daytime                28534 commits       █████████░░░░░░░░░░░░░░░░   35.73 % 
-🌃 Evening                34144 commits       ███████████░░░░░░░░░░░░░░   42.75 % 
-🌙 Night                  12181 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+🌞 Morning                5084 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+🌆 Daytime                28882 commits       █████████░░░░░░░░░░░░░░░░   35.72 % 
+🌃 Evening                34556 commits       ███████████░░░░░░░░░░░░░░   42.74 % 
+🌙 Night                  12328 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   19625 commits       ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-Tuesday                  11264 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Wednesday                10767 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Thursday                 9277 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Friday                   11993 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Saturday                 9245 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Sunday                   7690 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Monday                   19881 commits       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Tuesday                  11388 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Wednesday                10907 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Thursday                 9412 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Friday                   12147 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Saturday                 9349 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Sunday                   7766 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 ```
 
 
@@ -124,7 +122,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pranshugupta54/pranshugupta54/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 01:33:04 UTC
+ Last Updated on 04/10/2025 01:30:54 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
