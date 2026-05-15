@@ -50,9 +50,7 @@ const pranshu = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C205%20hrs%2031%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-118.09%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -66,42 +64,6 @@ const pranshu = {
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                9855 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-🌆 Daytime                49503 commits       █████████░░░░░░░░░░░░░░░░   35.62 % 
-🌃 Evening                57730 commits       ██████████░░░░░░░░░░░░░░░   41.54 % 
-🌙 Night                  21875 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   34031 commits       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-Tuesday                  19731 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Wednesday                19342 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Thursday                 17404 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Friday                   20948 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Saturday                 15206 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Sunday                   12301 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -119,7 +81,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pranshugupta54/pranshugupta54/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 03:48:20 UTC
+ Last Updated on 15/05/2026 03:50:35 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
