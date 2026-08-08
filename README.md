@@ -50,13 +50,15 @@ const pranshu = {
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-145.52%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C173%20hrs%2036%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-145.46%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 59.4 kB Used in GitHub's Storage 
  > 
-> 🏆 476 Contributions in the Year 2026
+> 🏆 491 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,6 +66,48 @@ const pranshu = {
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                12371 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+🌆 Daytime                60198 commits       █████████░░░░░░░░░░░░░░░░   35.53 % 
+🌃 Evening                70275 commits       ██████████░░░░░░░░░░░░░░░   41.48 % 
+🌙 Night                  26587 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   40536 commits       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+Tuesday                  23703 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Wednesday                24569 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Thursday                 21684 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Friday                   25853 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Saturday                 18467 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Sunday                   14619 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -81,7 +125,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pranshugupta54/pranshugupta54/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 03:19:15 UTC
+ Last Updated on 08/08/2026 01:59:28 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
