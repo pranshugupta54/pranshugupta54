@@ -52,38 +52,38 @@ const pranshu = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C173%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-228.34%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-233.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 61.0 kB Used in GitHub's Storage 
  > 
-> 🏆 889 Contributions in the Year 2026
+> 🏆 910 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 51 Public Repositories 
  > 
 > 🔑 15 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                16080 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-🌆 Daytime                78597 commits       █████████░░░░░░░░░░░░░░░░   35.53 % 
-🌃 Evening                90410 commits       ██████████░░░░░░░░░░░░░░░   40.87 % 
-🌙 Night                  36143 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+🌞 Morning                16358 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+🌆 Daytime                79993 commits       █████████░░░░░░░░░░░░░░░░   35.51 % 
+🌃 Evening                91987 commits       ██████████░░░░░░░░░░░░░░░   40.84 % 
+🌙 Night                  36924 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   49822 commits       ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-Tuesday                  31090 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Wednesday                33484 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Thursday                 27788 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Friday                   35392 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Saturday                 24788 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Sunday                   18866 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Monday                   50487 commits       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Tuesday                  31639 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Wednesday                34201 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Thursday                 28243 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Friday                   36111 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Saturday                 25307 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Sunday                   19274 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 ```
 
 
@@ -111,11 +111,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               25 repos            ███████████░░░░░░░░░░░░░░   42.37 % 
-TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-MDX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+JavaScript               25 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+MDX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
@@ -125,7 +125,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pranshugupta54/pranshugupta54/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 04:44:24 UTC
+ Last Updated on 27/09/2026 04:56:28 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
